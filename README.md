@@ -6,16 +6,16 @@ Happy Coding!!⚡⚡
 
 ## NPM Scripts
 
-`npm start`\
+`npm start`
  - Executes npm run build and then runs index.js in build folder.\
  \
- `npm run start:dev`\
+`npm run start:dev`
  - Starts a nodemon instance that restarts typescript when updates are created.\
  \
- `npm run build`\
+`npm run build`
  - Compiles TypeScript code into JavaScript under a new build folder in the working directory. If a build folder already exists then it is deleted.\
  \
-`npm run test`\
+`npm run test`
  - Echoes that no test is currently specified and exits with status code 1. Use this command for future testing purposes.\
- \
+
 
